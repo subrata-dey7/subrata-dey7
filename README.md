@@ -1,3 +1,4 @@
+![logo](https://github.com/subrata-dey7/subrata-dey7/blob/main/Github%20Banner%20Pic.png)
 <h1 align="center">Hi 👋, I'm Subrata Dey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
